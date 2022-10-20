@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CruzinCoderGirl
 - 👀 I’m interested in sleeping, food, and learning
-- 🌱 I’m currently learning SQL, CSS
+- 🌱 I’m currently learning SQL, Java 8
 - 💞️ I’m looking to collaborate on Idk yet
 
 <!---
